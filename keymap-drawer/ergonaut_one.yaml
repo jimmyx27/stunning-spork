@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: ergonaut_one}
 layers:
   default:
   - {t: ']', h: Gui}
@@ -12,7 +13,7 @@ layers:
   - O
   - P
   - '['
-  - {t: '`', h: Ctrl}
+  - {t: ↹, h: Ctrl}
   - A
   - S
   - D
@@ -142,7 +143,7 @@ layers:
   - ''
   - Boot
   - BT CLR
-  - BT 1
+  - OUT TOG
   - BT 2
   - BT 3
   - BT 4
