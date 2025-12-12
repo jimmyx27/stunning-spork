@@ -36,13 +36,13 @@ layers:
   - ','
   - .
   - /
-  - {t: '=', h: Alt}
-  - {t: ↹, h: raise}
-  - {t: ␣, h: Shift}
+  - {t: '=', h: RIGHT SHIFT}
+  - {t: ↹, h: LEFT ALT}
+  - {t: ␣, h: raise}
   - {t: ⏎, h: lower}
   - {t: Esc, h: lower}
-  - {t: ⌫, h: Shift}
-  - {t: ⌦, h: raise}
+  - {t: ⌫, h: raise}
+  - {t: ⌦, h: RIGHT ALT}
   lower:
   - {t: '`', h: Gui}
   - '!'
@@ -123,8 +123,8 @@ layers:
   - Page Down
   - Pause Break
   - Alt
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -166,8 +166,8 @@ layers:
   - ''
   - ''
   - Reset
+  - {t: ▽, type: trans}
   - {type: held}
-  - ''
   - {type: held}
   - ''
   - {t: ▽, type: trans}
