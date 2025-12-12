@@ -94,10 +94,10 @@ layers:
   - KP 9
   - KP MINUS
   - Vol Up
-  - Home
-  - Print Scrn
   - Page Up
-  - SLCK
+  - Print Scrn
+  - '{'
+  - '}'
   - CLCK
   - {t: '=', h: Ctrl}
   - KP MULTIPLY
@@ -118,7 +118,7 @@ layers:
   - KP 3
   - KP DOT
   - Vol Down
-  - End
+  - Page Down
   - ↓
   - Page Down
   - Pause Break
