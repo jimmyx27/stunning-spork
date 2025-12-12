@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: ergonaut_one}
 layers:
   default:
-  - {t: ']', h: Gui}
+  - {t: '~', h: Gui}
   - Q
   - W
   - E
@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - '['
+  - \
   - {t: ↹, h: Ctrl}
   - A
   - S
@@ -25,7 +25,7 @@ layers:
   - L
   - ;
   - {t: '''', h: Ctrl}
-  - {t: '-', h: Alt}
+  - {t: '-', h: LEFT SHIFT}
   - Z
   - X
   - C
@@ -36,7 +36,7 @@ layers:
   - ','
   - .
   - /
-  - {t: \, h: Alt}
+  - {t: '=', h: Alt}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
   - {t: ⏎, h: lower}
@@ -45,11 +45,11 @@ layers:
   - {t: ⌦, h: raise}
   lower:
   - {t: '`', h: Gui}
-  - F2
-  - F3
-  - F4
-  - F5
-  - F6
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
   - F7
   - F8
   - F9
